@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462893053 source:c:\users\abc.desktop-ud1mp2j\desktop\os project\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<fcfs.h>
+	<priority.h>
+
